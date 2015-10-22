@@ -1,3 +1,6 @@
 node_modules/
 /data
 mongod-start
+testAPI.js
+neilDumbTest.js
+ELOtest.js
